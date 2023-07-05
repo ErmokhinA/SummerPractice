@@ -1,0 +1,7 @@
+@import "./reset.css";
+
+body {
+  font-family: "Gill Sans Extrabold", sans-serif;
+  color: #1d1d1d;
+  background: url("../img/bg.jpg"), lightgray 50% / cover no-repeat;
+}
